@@ -1,0 +1,12 @@
+{
+    "retailer": "7-Eleven",
+    "purchaseDate": "2022-05-02",
+    "purchaseTime": "10:20",
+    "items": [
+      {"shortDescription": "Ice Cream", "price": "4.25"},
+      {"shortDescription": "Water", "price": "1.75"},
+      {"shortDescription": "Candy", "price": "0.75"}
+    ],
+    "total": "6.75",
+    "expectedPoints": 17
+}

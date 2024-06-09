@@ -1,0 +1,17 @@
+{
+    "retailer": "CVS Pharmacy",
+    "purchaseDate": "2022-07-31",
+    "purchaseTime": "15:45",
+    "items": [
+        {
+            "shortDescription": "Chips",
+            "price": "1.50"
+        },
+        {
+            "shortDescription": "Soda",
+            "price": "0.99"
+        }
+    ],
+    "total": "2.49",
+    "expectedPoints": 63
+}
