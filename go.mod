@@ -1,6 +1,6 @@
 module receipt-processor
 
-go 1.22.3
+go 1.18
 
 require (
 	github.com/google/uuid v1.6.0 // indirect
