@@ -19,13 +19,14 @@ RUN go build -o receipt-processor main.go
 # Start a new stage from scratch
 FROM alpine:latest
 
+# Set the Current Working Directory inside the container
 WORKDIR /root/
 
 # Copy the Pre-built binary file from the previous stage
 COPY --from=builder /app/receipt-processor .
 
-# Expose port 8080 to the outside world
+# Expose port 8080
 EXPOSE 8080
 
-# Command to run the executable
+# run the executable
 CMD ["./receipt-processor"]

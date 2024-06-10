@@ -7,6 +7,5 @@
       {"shortDescription": "Water", "price": "1.75"},
       {"shortDescription": "Candy", "price": "0.75"}
     ],
-    "total": "6.75",
-    "expectedPoints": 17
+    "total": "6.75"
 }

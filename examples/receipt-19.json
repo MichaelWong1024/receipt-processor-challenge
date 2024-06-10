@@ -1,0 +1,13 @@
+{
+    "retailer": "Costco",
+    "purchaseDate": "2022-12-24",
+    "purchaseTime": "13:55",
+    "items": [
+      {"shortDescription": "Tissue Box", "price": "4.99"},
+      {"shortDescription": "Detergent", "price": "13.49"},
+      {"shortDescription": "Eggs", "price": "10.49"},
+      {"shortDescription": "Juice", "price": "7.99"},
+      {"shortDescription": "Cookies", "price": "5.99"}
+    ],
+    "total": "42.95"
+}
